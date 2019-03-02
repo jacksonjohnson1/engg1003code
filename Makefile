@@ -1,2 +1,2 @@
 template: template.c
-	gcc template.c -lm
+	gcc -O0 -g template.c -lm
