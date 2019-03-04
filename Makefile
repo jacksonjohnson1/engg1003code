@@ -1,2 +1,2 @@
-template: template.c
-	gcc template.c -lm
+main: main.c
+	gcc -Wall -g -O0 main.c -lm
